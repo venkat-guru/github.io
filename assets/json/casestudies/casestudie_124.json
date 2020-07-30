@@ -1,0 +1,108 @@
+{
+    "casestudie": [{
+            "id": 0,
+            "title": "Launcing India's first clothes management system 124 0",
+            "sub_title": "Positioning + Branding",
+            "descrtiption1": "Mainetti, the world's largest hanger makers from italy desired to enter the high volume & highly commoditized indian consumer hanger market",
+            "descrtiption2": "They reached out to The Suits to create a compelling brand story and a unique visual identity",
+            "client": "Mainetti india Pvt Ltd",
+            "commissioned_by": "Blue Deer Consulting 2016",
+            "image": "assets/images/img1.png",
+            "gallery": [
+                "assets/images/slide4.png",
+                "assets/images/slide3.png",
+                "assets/images/slide5.png",
+                "assets/images/slide6.png",
+                "assets/images/slide1.png"
+            ]
+        },
+        {
+            "id": 1,
+            "title": "Launcing India's first clothes management system 124 1",
+            "sub_title": "Positioning + Branding",
+            "descrtiption1": "Mainetti, the world's largest hanger makers from italy desired to enter the high volume & highly commoditized indian consumer hanger market",
+            "descrtiption2": "They reached out to The Suits to create a compelling brand story and a unique visual identity",
+            "client": "Client: Mainetti india Pvt Ltd",
+            "commissioned_by": "Commissioned by: Blue Deer Consulting 2016",
+            "image": "assets/images/img6.png",
+            "gallery": [
+                "assets/images/slide4.png",
+                "assets/images/slide3.png",
+                "assets/images/slide5.png",
+                "assets/images/slide6.png",
+                "assets/images/slide1.png"
+            ]
+        },
+        {
+            "id": 2,
+            "title": "Launcing India's first clothes management system  124 2",
+            "sub_title": "Positioning + Branding",
+            "descrtiption1": "Mainetti, the world's largest hanger makers from italy desired to enter the high volume & highly commoditized indian consumer hanger market",
+            "descrtiption2": "They reached out to The Suits to create a compelling brand story and a unique visual identity",
+            "client": "Mainetti india Pvt Ltd",
+            "commissioned_by": "Blue Deer Consulting 2016",
+            "image": "assets/images/img3.jpg",
+            "gallery": [
+                "assets/images/slide4.png",
+                "assets/images/slide3.png",
+                "assets/images/slide5.png",
+                "assets/images/slide6.png",
+                "assets/images/slide1.png"
+            ]
+        },
+        {
+            "id": 3,
+            "title": "Launcing India's first clothes management system  124 3",
+            "sub_title": "Positioning + Branding",
+            "descrtiption1": "Mainetti, the world's largest hanger makers from italy desired to enter the high volume & highly commoditized indian consumer hanger market",
+            "descrtiption2": "They reached out to The Suits to create a compelling brand story and a unique visual identity",
+            "client": "Mainetti india Pvt Ltd",
+            "commissioned_by": "Blue Deer Consulting 2016",
+            "image": "assets/images/img4.png",
+            "gallery": [
+                "assets/images/slide4.png",
+                "assets/images/slide3.png",
+                "assets/images/slide5.png",
+                "assets/images/slide6.png",
+                "assets/images/slide1.png"
+            ]
+        },
+        {
+            "id": 4,
+            "title": "Launcing India's first clothes management system  124 4",
+            "sub_title": "Positioning + Branding",
+            "descrtiption1": "Mainetti, the world's largest hanger makers from italy desired to enter the high volume & highly commoditized indian consumer hanger market",
+            "descrtiption2": "They reached out to The Suits to create a compelling brand story and a unique visual identity",
+            "client": "Mainetti india Pvt Ltd",
+            "commissioned_by": "Blue Deer Consulting 2016",
+            "image": "assets/images/img5.png",
+            "gallery": [
+                "assets/images/slide4.png",
+                "assets/images/slide3.png",
+                "assets/images/slide5.png",
+                "assets/images/slide6.png",
+                "assets/images/slide1.png"
+
+            ]
+        },
+        {
+            "id": 5,
+            "title": "Launcing India's first clothes management system  124 5",
+            "sub_title": "Positioning + Branding",
+            "descrtiption1": "Mainetti, the world's largest hanger makers from italy desired to enter the high volume & highly commoditized indian consumer hanger market",
+            "descrtiption2": "They reached out to The Suits to create a compelling brand story and a unique visual identity",
+            "client": "Mainetti india Pvt Ltd",
+            "commissioned_by": "Blue Deer Consulting 2016",
+            "image": "assets/images/img6.png",
+            "gallery": [
+                "assets/images/slide4.png",
+                "assets/images/slide3.png",
+                "assets/images/slide5.png",
+                "assets/images/slide6.png",
+                "assets/images/slide1.png"
+            ]
+        }
+    ],
+    "prev": 123,
+    "next": 125
+}

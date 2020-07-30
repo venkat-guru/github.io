@@ -1,0 +1,155 @@
+{
+    "allpartners": [{
+            "id": 0,
+            "title": "Whoa Mama Studios",
+            "sub_title": "DESIGN | DIGITAL",
+            "single_page_title": "Whoa Mama Studios //  ",
+            "descrtiptions": [
+                "One of our very forst collaborators, we have seen Whoa Mama grow from a two member team to one of South India's fore-most design and digital agency",
+                "Whoa Mama a brings contemporary design sensibilities and an nfectious energy to every project",
+                "We share more than just offices & client but a lot of memorable moments as well"
+            ],
+            "image": "assets/images/img1.png",
+            "gallery": [
+                "assets/images/slide1.png",
+                "assets/images/slide2.png",
+                "assets/images/slide3.png",
+                "assets/images/slide4.png",
+                "assets/images/slide5.png"
+            ]
+        },
+        {
+            "id": 1,
+            "title": "Look & Feel",
+            "sub_title": "ADVERTISING",
+            "single_page_title": "Look & Feel //  ",
+            "descrtiptions": [
+                "One of our very forst collaborators, we have seen Whoa Mama grow from a two member team to one of South India's fore-most design and digital agency",
+                "Whoa Mama a brings contemporary design sensibilities and an nfectious energy to every project",
+                "We share more than just offices & client but a lot of memorable moments as well"
+            ],
+            "image": "assets/images/img2.png",
+            "gallery": [
+                "assets/images/slide2.png",
+                "assets/images/slide1.png",
+                "assets/images/slide3.png",
+                "assets/images/slide4.png",
+                "assets/images/slide5.png"
+            ]
+        },
+        {
+            "id": 2,
+            "title": "Joyston Christopher Vaz",
+            "sub_title": "MULTI-MEDIA ARTIST",
+            "single_page_title": "Joyston Christopher Vaz //  ",
+            "descrtiptions": [
+                "One of our very forst collaborators, we have seen Whoa Mama grow from a two member team to one of South India's fore-most design and digital agency",
+                "Whoa Mama a brings contemporary design sensibilities and an nfectious energy to every project",
+                "We share more than just offices & client but a lot of memorable moments as well"
+            ],
+            "image": "assets/images/img4.png",
+            "gallery": [
+                "assets/images/slide4.png",
+                "assets/images/slide1.png",
+                "assets/images/slide2.png",
+                "assets/images/slide3.png",
+                "assets/images/slide5.png"
+            ]
+        },
+        {
+            "id": 3,
+            "title": "Quadnotion",
+            "sub_title": "WEB DEVELOPMENT AGENCY",
+            "single_page_title": "Quadnotion //  ",
+            "descrtiptions": [
+                "One of our very forst collaborators, we have seen Whoa Mama grow from a two member team to one of South India's fore-most design and digital agency",
+                "Whoa Mama a brings contemporary design sensibilities and an nfectious energy to every project",
+                "We share more than just offices & client but a lot of memorable moments as well"
+            ],
+            "image": "assets/images/img1.png",
+            "gallery": [
+                "assets/images/slide5.png",
+                "assets/images/slide1.png",
+                "assets/images/slide3.png",
+                "assets/images/slide4.png",
+                "assets/images/slide5.png"
+            ]
+        },
+        {
+            "id": 4,
+            "title": "Whoa Mama Studios",
+            "sub_title": "DESIGN | DIGITAL",
+            "single_page_title": "Whoa Mama Studios //  ",
+            "descrtiptions": [
+                "One of our very forst collaborators, we have seen Whoa Mama grow from a two member team to one of South India's fore-most design and digital agency",
+                "Whoa Mama a brings contemporary design sensibilities and an nfectious energy to every project",
+                "We share more than just offices & client but a lot of memorable moments as well"
+            ],
+            "image": "assets/images/img1.png",
+            "gallery": [
+                "assets/images/slide1.png",
+                "assets/images/slide2.png",
+                "assets/images/slide3.png",
+                "assets/images/slide4.png",
+                "assets/images/slide5.png"
+            ]
+        },
+        {
+            "id": 5,
+            "title": "Look & Feel",
+            "sub_title": "ADVERTISING",
+            "single_page_title": "Look & Feel //  ",
+            "descrtiptions": [
+                "One of our very forst collaborators, we have seen Whoa Mama grow from a two member team to one of South India's fore-most design and digital agency",
+                "Whoa Mama a brings contemporary design sensibilities and an nfectious energy to every project",
+                "We share more than just offices & client but a lot of memorable moments as well"
+            ],
+            "image": "assets/images/img2.png",
+            "gallery": [
+                "assets/images/slide2.png",
+                "assets/images/slide1.png",
+                "assets/images/slide3.png",
+                "assets/images/slide4.png",
+                "assets/images/slide5.png"
+            ]
+        },
+        {
+            "id": 6,
+            "title": "Joyston Christopher Vaz",
+            "sub_title": "MULTI-MEDIA ARTIST",
+            "single_page_title": "Joyston Christopher Vaz //  ",
+            "descrtiptions": [
+                "One of our very forst collaborators, we have seen Whoa Mama grow from a two member team to one of South India's fore-most design and digital agency",
+                "Whoa Mama a brings contemporary design sensibilities and an nfectious energy to every project",
+                "We share more than just offices & client but a lot of memorable moments as well"
+            ],
+            "image": "assets/images/img4.png",
+            "gallery": [
+                "assets/images/slide4.png",
+                "assets/images/slide1.png",
+                "assets/images/slide2.png",
+                "assets/images/slide3.png",
+                "assets/images/slide5.png"
+            ]
+        },
+        {
+            "id": 7,
+            "title": "Quadnotion",
+            "sub_title": "WEB DEVELOPMENT AGENCY",
+            "single_page_title": "Quadnotion //  ",
+            "descrtiptions": [
+                "One of our very forst collaborators, we have seen Whoa Mama grow from a two member team to one of South India's fore-most design and digital agency",
+                "Whoa Mama a brings contemporary design sensibilities and an nfectious energy to every project",
+                "We share more than just offices & client but a lot of memorable moments as well"
+            ],
+            "image": "assets/images/img1.png",
+            "gallery": [
+                "assets/images/slide5.png",
+                "assets/images/slide1.png",
+                "assets/images/slide3.png",
+                "assets/images/slide4.png",
+                "assets/images/slide5.png"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,266 @@
+{
+    "allworks": [{
+            "id": 0,
+            "title": "Sip Abacus",
+            "sub_title": "In love with math",
+            "single_page_title": "Palam Silks //  ",
+            "descrtiption1": "The idea was to create a digital property for Palam that unapologetically showcased women who had moved away from the mainstream to purse alternate career paths",
+            "descrtiption2": "Role of The Suits",
+            "descrtiption3": "Collaborators",
+            "descrtiptions": [
+                "The idea was to create a digital property for Palam that unapologetically showcased women who had moved away from the mainstream to purse alternate career paths",
+                "Role of The Suits",
+                "Collaborators"
+            ],
+            "image": "assets/images/img1.png",
+            "icon": "fa fa-video-camera",
+            "gallery": [
+                "assets/images/slide1.png",
+                "assets/images/slide2.png",
+                "assets/images/slide3.png",
+                "assets/images/slide4.png",
+                "assets/images/slide5.png"
+            ],
+            "cat": {
+                "name": "medium",
+                "id": 2,
+                "medium": [
+                    2, 4
+                ]
+            }
+        },
+        {
+            "id": 1,
+            "title": "Plintron",
+            "sub_title": "In love with math",
+            "single_page_title": "Palam Silks //  ",
+            "descrtiption1": "Challenge / Brief",
+            "descrtiption2": "Role of The Suits",
+            "descrtiption3": "Collaborators",
+            "descrtiptions": [
+                "Challenge / Brief",
+                "Role of The Suits",
+                "Collaborators"
+            ],
+            "image": "assets/images/img2.png",
+            "icon": "fa fa-globe",
+            "gallery": [
+                "assets/images/slide2.png",
+                "assets/images/slide1.png",
+                "assets/images/slide3.png",
+                "assets/images/slide4.png",
+                "assets/images/slide5.png"
+            ],
+            "cat": {
+                "name": "medium",
+                "id": 4,
+                "medium": [
+                    5, 4, 1
+                ]
+            }
+        },
+        {
+            "id": 2,
+            "title": "Arvind",
+            "sub_title": "In love with math",
+            "single_page_title": "Palam Silks //  ",
+            "descrtiption1": "Challenge / Brief",
+            "descrtiption2": "Role of The Suits",
+            "descrtiption3": "Collaborators",
+            "descrtiptions": [
+                "Challenge / Brief",
+                "Role of The Suits",
+                "Collaborators"
+            ],
+            "image": "assets/images/img3.png",
+            "icon": "fa fa-newspaper-o",
+            "gallery": [
+                "assets/images/slide3.png",
+                "assets/images/slide1.png",
+                "assets/images/slide2.png",
+                "assets/images/slide4.png",
+                "assets/images/slide5.png"
+            ],
+            "cat": {
+                "name": "medium",
+                "id": 6,
+                "medium": [
+                    3, 4, 1
+                ]
+            }
+        },
+        {
+            "id": 3,
+            "title": "Palam Silks",
+            "sub_title": "In love with math",
+            "single_page_title": "Palam Silks //  ",
+            "descrtiption1": "Challenge / Brief",
+            "descrtiption2": "Role of The Suits",
+            "descrtiption3": "Collaborators",
+            "descrtiptions": [
+                "Challenge / Brief",
+                "Role of The Suits",
+                "Collaborators"
+            ],
+            "image": "assets/images/img4.png",
+            "icon": "fa fa-television",
+            "gallery": [
+                "assets/images/slide4.png",
+                "assets/images/slide1.png",
+                "assets/images/slide2.png",
+                "assets/images/slide3.png",
+                "assets/images/slide5.png"
+            ],
+            "cat": {
+                "name": "medium",
+                "id": 1,
+                "medium": [
+                    2, 1, 3
+                ]
+            }
+        },
+        {
+            "id": 4,
+            "title": "SIP ABACUS",
+            "sub_title": "In love with math",
+            "single_page_title": "Palam Silks //  ",
+            "descrtiption1": "Challenge / Brief",
+            "descrtiption2": "Role of The Suits",
+            "descrtiption3": "Collaborators",
+            "descrtiptions": [
+                "Challenge / Brief",
+                "Role of The Suits",
+                "Collaborators"
+            ],
+            "image": "assets/images/img1.png",
+            "icon": "fa fa-television",
+            "gallery": [
+                "assets/images/slide5.png",
+                "assets/images/slide1.png",
+                "assets/images/slide3.png",
+                "assets/images/slide4.png",
+                "assets/images/slide5.png"
+            ],
+            "cat": {
+                "name": "industry",
+                "id": 2,
+                "industry": [
+                    2, 4
+                ]
+            }
+        },
+        {
+            "id": 5,
+            "title": "PLINTRON",
+            "sub_title": "In love with math",
+            "single_page_title": "Palam Silks //  ",
+            "descrtiption1": "Challenge / Brief",
+            "descrtiption2": "Role of The Suits",
+            "descrtiption3": "Collaborators",
+            "descrtiptions": [
+                "Challenge / Brief",
+                "Role of The Suits",
+                "Collaborators"
+            ],
+            "image": "assets/images/img2.png",
+            "icon": "fa fa-video-camera",
+            "gallery": [
+                "assets/images/slide6.png",
+                "assets/images/slide2.png",
+                "assets/images/slide3.png",
+                "assets/images/slide4.png",
+                "assets/images/slide5.png"
+            ],
+            "cat": {
+                "name": "industry",
+                "id": 4,
+                "industry": [
+                    3, 4
+                ]
+            }
+        },
+        {
+            "id": 6,
+            "title": "ARVIND",
+            "sub_title": "In love with math",
+            "single_page_title": "Palam Silks //  ",
+            "descrtiption1": "Challenge / Brief",
+            "descrtiption2": "Role of The Suits",
+            "descrtiption3": "Collaborators",
+            "descrtiptions": [
+                "Challenge / Brief",
+                "Role of The Suits",
+                "Collaborators"
+            ],
+            "image": "assets/images/img3.png",
+            "icon": "fa fa-globe",
+            "gallery": [
+                "assets/images/img1.png",
+                "assets/images/img3.jpg",
+                "assets/images/img4.png",
+                "assets/images/img5.png",
+                "assets/images/img6.png"
+            ],
+            "cat": {
+                "name": "industry",
+                "id": 1,
+                "industry": [
+                    1, 3
+                ]
+            }
+        },
+        {
+            "id": 7,
+            "title": "PALAM SILKS",
+            "sub_title": "In love with math",
+            "single_page_title": "Palam Silks //  ",
+            "descrtiption1": "Challenge / Brief",
+            "descrtiption2": "Role of The Suits",
+            "descrtiption3": "Collaborators",
+            "descrtiptions": [
+                "Challenge / Brief",
+                "Role of The Suits",
+                "Collaborators"
+            ],
+            "image": "assets/images/img4.png",
+            "icon": "fa fa-newspaper-o",
+            "gallery": [
+                "assets/images/img1.png",
+                "assets/images/img3.jpg",
+                "assets/images/img4.png",
+                "assets/images/img5.png",
+                "assets/images/img6.png"
+            ],
+            "cat": {
+                "name": "industry",
+                "id": 5,
+                "industry": [
+                    5, 3, 1
+                ]
+            }
+        }
+    ],
+    "categories": {
+        "cat": [
+            "industry",
+            "medium"
+        ],
+        "industry": {
+            "0": "Real Estate",
+            "1": "Education",
+            "2": "Homeware",
+            "3": "Fashion retail",
+            "4": "Technology",
+            "5": "Publishing"
+        },
+        "medium": {
+            "0": "Press",
+            "1": "Radio",
+            "2": "Film",
+            "3": "Branding",
+            "4": "Websites",
+            "5": "Digital ideas",
+            "6": "Space design"
+        }
+    }
+}
